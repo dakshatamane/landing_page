@@ -1,0 +1,39 @@
+#hero{
+    background-image: url('fun.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    padding: 17% 25%;
+}
+#features{
+    padding:10% 17%;
+    text-align: center;
+}
+.feature{
+    margin: 20px 7px; 
+}
+.icon{
+    margin: 20px 0;
+    color:red;
+}
+#testimonials{
+    padding-top: 5%;
+    text-align: center;
+    background-color: rgb(250, 50, 50);
+    color:white;
+}
+.testi{
+    padding: 7% 15%;
+    color:white;
+}
+#pricing{
+    padding: 7% 15%;
+    text-align: center;
+}
+.row{
+    padding-top: 5%;
+}
+#footer{
+    text-align: center;
+    padding: 5%;
+}
